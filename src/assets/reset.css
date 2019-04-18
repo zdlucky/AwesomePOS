@@ -1,0 +1,7 @@
+/* 重置 CSS 样式 */
+.el-tabs__item {
+    padding: 0 20px !important;
+}
+.el-tabs__active-bar {
+    width: 68px !important;
+}
